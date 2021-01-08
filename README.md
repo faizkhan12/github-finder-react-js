@@ -1,6 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Github Finder is a react application to search for the github users and has many features to display like:
+  
+  - Search for github user
+  - See their latest repositories
+  - view things like followers, following, and can even navigate to the original github site
+  
+The site is live in [https://faiz-github-finder.netlify.app/](https://faiz-github-finder.netlify.app/)
 
 ## Available Scripts
 
